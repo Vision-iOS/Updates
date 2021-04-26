@@ -1,5 +1,21 @@
 # Updates
 
+## Version: 1.0
+- Fix image cache management.
+- Improved performance.
+- Added animation and confirmation of image analysis.
+- Added tags in the map section when pressing on an image.
+- Minor changes.
+## Version: 0.9
+- Icons in the preferences section.
+- In-app view for external links.
+- Added map tag.
+- Smooth animation of user tags.  
+## Version: 0.8
+- Permission management and user localization.
+- Import and analytics management through Firebase.
+- Edit user tags by localization.
+- Toast to report further possible interactions.  
 ## Version: 0.7
 - Scrolling and confetti animations.
 - List and grid view of images.
